@@ -1,0 +1,159 @@
+.table
+{
+  width:100%;
+  height:98vh;
+  border-collapse: collapse;
+}
+.id1
+{
+background-color: #12131B;
+height: 15vh;
+width: 15vh;
+}
+
+.logo{height:4vh;
+      width:4vh;}
+
+.txtcor{color: white;}
+
+.Sobre{font-size: 40px;
+color: #55C3D7;
+text-align: center;}
+
+.txtsobre{font-size: 20px;
+          color: white;
+          Transform: translateY(-20px);}
+
+.logo2{height:10vh;
+  width:10vh;}
+
+.search{text-align: center;
+height: 10vh;
+width: 100vh;}
+
+.imgLogo{
+  height:50vh;
+  width:50vh;
+  text-align: center;
+}
+
+.txtinicial{
+  font-size: 40px;
+  color: white;
+  transform: translateX(40px);
+}
+
+.melhores{
+  color: #55C3D7;
+}
+
+.Placadevideo{
+  font-size: 40px;
+  color: #55C3D7;
+}
+
+.Placadevideo1{
+  width:20px;;
+  height:20px;;
+  text-align: left;
+}
+
+.txtplacadevideo1{
+  font-size: 22px;
+  color: white;
+}
+
+.btn
+{
+  font-size: 20px;
+  color: rgb(0, 0, 0);
+  text-align: center;
+  text-decoration: none;
+
+}
+
+.clique
+{
+  width: 300px;
+  height: 60px;
+  background-color: white;
+  border-radius: 50px;
+
+}
+
+.Valorpeça{
+  font-size: 20px;
+  color: rgb(0, 0, 0);
+  text-align: center;
+  border-radius: 50px;
+
+}
+
+.botao
+{
+  border-radius: 50px;
+  background-color: white;
+}
+
+.Placadevideo2{
+  width:20px;;
+  height:20px;;
+  text-align: left;
+}
+
+.faleconosco{
+  color: white;
+  text-align: left;
+  font-size: 45px;
+}
+
+.Email{
+  color: white;
+  font-size: 23px;
+
+
+}
+
+.txt
+{
+  width: 60%;
+  height: 20%;
+  border-radius: 50px;
+}
+
+.faleconosco2{
+  color: white;
+  text-align: left;
+  font-size: 30px;
+}
+
+.facebook{
+  width:10%;
+  text-align: left;
+}
+
+.facebook2{
+  width: 10%;
+  text-align: center;
+}
+
+.facebook3{
+  width: 15%;
+  text-align: right;
+}
+
+.quadrado{
+  border-radius: 10px;
+  background-color: white;
+  color: white;
+  border: 2px solid black;
+  width: 500px;
+  padding: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+}
+
+
+
